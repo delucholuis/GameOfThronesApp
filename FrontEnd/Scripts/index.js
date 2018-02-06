@@ -22,3 +22,12 @@ alert("Keeping up with the Targaryens, uh?");
 // var finalAnswer = calculateAnswer(parseInt);
 // alert(finalAnswer);
 checkMyFavChar(myFavGOTChar);
+
+const hoursInDay= 24;
+var GOTcharacter = {
+    name: "Jaime Lannister",
+    house: "Lannister",
+    childCount: 3
+}
+console.log(hoursInDay);
+console.log(GOTcharacter);
