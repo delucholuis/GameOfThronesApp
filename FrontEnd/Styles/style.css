@@ -1,9 +1,22 @@
 table {
     color:grey;
+    background-color: red;
 }
 #container {
     color:green;
 }
 .lastColumn {
     color:black;
+}
+nav {
+    top:0;
+}
+.direWolves {
+    font-size: 1.3em;
+}
+textarea {
+    border-style: dotted;
+}
+input {
+    margin: 3px
 }
