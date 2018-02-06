@@ -13,10 +13,19 @@ nav {
 }
 .direWolves {
     font-size: 1.3em;
+    font-style: Trebuchet;
+    border-style: dotted;
 }
 textarea {
     border-style: dotted;
 }
 input {
     margin: 3px
+}
+.column {
+    float:left;
+    width: 20%;
+}
+.indexCharacters {
+    font-size: 1.3em;
 }
