@@ -45,3 +45,10 @@ var footer = document.createElement('div');
 footer.innerHTML = "GOThouse is defined!";
 //js part3
 
+
+const undefinedCheck = (valueToCheck) => {
+    if(valueToCheck != undefined){
+        return boolean = false;
+    }
+}
+return 
